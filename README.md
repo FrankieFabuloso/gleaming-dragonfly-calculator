@@ -26,7 +26,7 @@ Team Name: gleaming-dragonfly
 
 **Specs**
 
-- [ ]Your JavaScript is written in ES5
+- [ ] Your JavaScript is written in ES5
 - [ ] Your JavaScript follows this style guide
 - [ ] Your JavaScript defines 1 or less global variables
 - [ ] The Calculator display is not an <input>
