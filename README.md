@@ -39,16 +39,16 @@ Team Name: gleaming-dragonfly
 ## Stage 3
 **Specs**
 
-- [ ] Each calculator acts independently.
-- [ ] Clicking anywhere on a calculator focuses that calculator.
-- [ ] Typing a relevant key affects the focused calculator.
+- [x] Each calculator acts independently.
+- [x] Clicking anywhere on a calculator focuses that calculator.
+- [x] Typing a relevant key affects the focused calculator.
 - [ ] Use event delegation to avoid binding a click event listener to each button
-- [ ] The focused calculator is opacity: 1
-- [ ] The not-focused calculator is opacity: 0.5
+- [x] The focused calculator is opacity: 1
+- [x] The not-focused calculator is opacity: 0.5
 
 ## Stage 4
 **Specs**
-- [ ]Each mathematical operation should have it’s own API endpoint
+- [ ] Each mathematical operation should have it’s own API endpoint
 - [ ] Each mathematical operation is done on the server
 - [ ] Each request for a mathematical operation is a post request
 - [ ] Each operation request responds with JSON
@@ -57,7 +57,7 @@ Team Name: gleaming-dragonfly
 
 ## Stage 5
 **Specs**
-- [ ]there is only one calculator on the page
+- [ ] there is only one calculator on the page
 - [ ] the calculator displays a scrolling history of calculations
 - [ ] the most recent calculation result is at the bottom
 - [ ] the scroll-back history is always scrolled to the bottom when a new operation result is added
