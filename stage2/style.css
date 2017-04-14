@@ -4,13 +4,24 @@ html {
   font-family: Roboto, sans-serif;
 }
 
+.calculator-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  min-width: 580px;
+  min-height: 100%;
+}
+
 .calculator {
-  position: fixed;
-  top: 30vh;
-  left: 40vw;
+  align-self:center;
+  position: relative;
   border: 1px #9e9e9e solid;
   border-radius: 5px;
   width: 224px;
+  box-shadow: 10px 10px 50px #888888;
 }
 
 /* Row an.calculator-col styling */
